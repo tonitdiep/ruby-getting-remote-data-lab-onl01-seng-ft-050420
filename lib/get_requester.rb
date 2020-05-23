@@ -21,7 +21,4 @@ def parse_json
   #   response["agency"]
   # end
 end
- 
-
-
 end
